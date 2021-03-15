@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="helix.MatrixHelixMorphTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-03-15T21:25:26" hostname="BRIANHOME" time="0.004">
+  <properties/>
+  <testcase name="test0x0" classname="helix.MatrixHelixMorphTest" time="0.001"/>
+  <testcase name="test1x1" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test1x3" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test2x2" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test2x3" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test3x1" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test3x2" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test3x3" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test5x5" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="test8x8" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <testcase name="TestNull" classname="helix.MatrixHelixMorphTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
